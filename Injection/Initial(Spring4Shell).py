@@ -25,7 +25,8 @@ def main():
     args = parser.parse_args()
 
     try:
-        send_request(args.t, args.i, args.p)
+        # Change the proxy=True if you wanna intercept traffic using burpsuite
+        send_request(args.t, args.i, args.p, proxy=False)
     except Exception as e:
         print(e)
 
