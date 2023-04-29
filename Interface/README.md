@@ -1,9 +1,11 @@
 * Edit IP Address in exploit.css file
 * Clone This Repo
-* Go in The Directory
-* Run
+* Go into the directory
+* Run:
 ```
 python3 -m pip install -r requirements.txt
 ```
-* Just Give the Script Target and Port Number to Receive Reverse Shell on It Will Automatically Fetch tun0
+* Just give the script the target and port number to receive a reverse shell on. It will automatically fetch tun0
+![image](https://user-images.githubusercontent.com/38681779/235319898-30309b61-f1d0-4bc6-83ac-134fd4c4cabf.png)
+
 
