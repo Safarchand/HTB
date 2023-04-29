@@ -1,3 +1,4 @@
+# dompdf RCE PoC CVE-2022-28368
 * Edit IP Address in exploit.css file
 * Download all the files in one directory
 * Go into the directory
