@@ -1,5 +1,5 @@
 * Edit IP Address in exploit.css file
-* Clone This Repo
+* Download all the files in one directory
 * Go into the directory
 * Run:
 ```
